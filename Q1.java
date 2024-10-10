@@ -56,7 +56,7 @@ public class Q1 {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 6;
 
                         int index = search(arr, n, x);
 
